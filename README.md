@@ -1,0 +1,1 @@
+# aws-ecs-fargate-mini-demo
